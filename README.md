@@ -10,11 +10,11 @@
 
 ---
 
-### 👋 About me
+###  About me
 
 I'm **Softbrick** — I build tools for the **NewbiesTeam** community: custom ROMs, kernels, recoveries and guides for the **Infinix GT 20 Pro (X6871)**, plus the apps and platforms around them. Part-time educator-tooling tinkerer (IGCSE exam analytics, tutor portfolios), full-time ship-it-yourself kind of dev.
 
-### 🚀 Public projects
+###  Public projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -25,7 +25,7 @@ I'm **Softbrick** — I build tools for the **NewbiesTeam** community: custom RO
 
 *Plus a handful of private projects in flight: an IGCSE/national-curriculum learning platform, a past-paper analytics tracker, and a local-first writing app.*
 
-### 🛠️ Mostly working with
+###  Mostly working with
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -37,7 +37,7 @@ I'm **Softbrick** — I build tools for the **NewbiesTeam** community: custom RO
 
 ### 📫 Reach me
 
-- ✉️ moafdrawer@gmail.com
+-  moafdrawer@gmail.com
 
 <div align="center">
 
