@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=zcyrl&theme=dark&ring=B00020&fire=B00020&currStreakLabel=B00020&hide_border=true&background=151515" alt="GitHub Streak" />
+    <img src="./profile/streak.svg" alt="GitHub Streak" />
   </a>
 </p>
 
