@@ -12,7 +12,7 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: Verify token secret
         env:
@@ -24,7 +24,7 @@ jobs:
           fi
 
       - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@v1
+        uses: DenverCoder1/github-readme-streak-stats@125aaaf200620410446ebfa51897fca3607e04fd # v1.8.2
         with:
           options: user=${{ github.repository_owner }}&theme=dark&ring=B00020&fire=B00020&currStreakLabel=B00020&hide_border=true&background=151515&disable_animations=true
           path: profile/streak.svg
