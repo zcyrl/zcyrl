@@ -28,6 +28,7 @@ I'm **Softbrick** — I build tools for the **NewbiesTeam** community: custom RO
 | [newbiesteam-desktop](https://github.com/zcyrl/newbiesteam-desktop) | NewbiesTeam desktop companions — GT 20 Pro Web Hub, self-contained builds | Kotlin, Compose Multiplatform, KCEF |
 | [newbiesteam-app](https://github.com/zcyrl/newbiesteam-app) | Official Android WebView app for the NewbiesTeam GT 20 Pro Hub | Kotlin |
 | [SpeedFlasher-TUI](https://github.com/zcyrl/SpeedFlasher-TUI) | Universal Android flashable-package maker with animated TUI | Python |
+| [mascot-code](https://github.com/zcyrl/mascot-code) | Desktop mascots for OpenCode — Empo the compass-star and Claude the pixel crab | QML, Quickshell |
 
 *Plus a handful of private projects in flight: an IGCSE/national-curriculum learning platform, a past-paper analytics tracker, and a local-first writing app.*
 
